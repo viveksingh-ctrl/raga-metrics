@@ -14,7 +14,7 @@ This project implements a RAGA (Retrieval Augmented Generation Assessment) metri
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/raga-metrics.git
+   git clone https://github.com/Jasshporwal/raga-metrics.git
    cd raga-metrics
    ```
 
